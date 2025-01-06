@@ -1,14 +1,14 @@
 📝 To-Do List Application
 
-Screenshot
 
-![image](https://github.com/user-attachments/assets/9c0f7ca7-4e46-4991-b65d-53979f9d9834)
 
 
 🔍 Project Overview
 
 This project is a simple and interactive 📝 To-Do List app built using HTML 🧱, CSS 🎨, and JavaScript 💻. It allows users to ➕ add tasks, ✅ mark them as completed, and ❌ delete them. The app also stores tasks and their completion statuses in localStorage 💾, ensuring data persistence across 🔄 page reloads.
 
+Screenshot
+![image](https://github.com/user-attachments/assets/79b69a81-13fb-4547-b689-925e3f2592a0)
 
 🌟 Features
 
