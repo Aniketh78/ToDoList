@@ -6,7 +6,8 @@ This project is a simple and interactive 📝 To-Do List app built using HTML �
 
 Screenshot
 
-![image](https://github.com/user-attachments/assets/8dd42000-1428-4608-86c1-bb66579491f5)
+![image](https://github.com/user-attachments/assets/31acc59d-5321-491a-a22b-9c976d5e5289)
+
 
 🌟 Features
 
