@@ -11,17 +11,20 @@
     </head>
     <body>
         <div class="wrapper">
-            <div class="contains">
+            
                 <div class="title">Todo List</div>
                 <div class="container">
                     <div class="input-field">
-                        <input class="to" placeholder="Add a task">
+                        <input class="to"onkeydown="chkEnter(event)" placeholder="Add a task">
                         <button class="add-btn">Add</button>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="elem-pres"></div>
                     </div>
                     <div class="todo-list-container">
                     </div>
                 </div>
-            </div>
+          
         </div>
         <script src="script.js"></script>
     </body>
