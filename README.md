@@ -55,7 +55,7 @@ This project is a simple and interactive 📝 To-Do List app built using HTML �
 1. 📥 Clone or download the project files.
 
 ```bash
-git clone https://github.com/your-username/to-do-list.git
+git clone https://github.com/Aniketh78/ToDoList.git
 ```
 2. Open the `index.html` file in your browser to start using the To-Do List app.
 
